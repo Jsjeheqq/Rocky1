@@ -1,0 +1,22 @@
+Commands list
+
+pip install pyTelegramBotAPI
+=
+pip install pymongo
+=
+pip install aiohttp
+=
+pip install -r requirements.txt
+=
+./Big_Data
+=
+python3 arman.py
+
+
+
+
+✨ SUPPORT GUYS✨ 
+
+TELEGRAM:- https://t.me/MODXOWNER_DDOS
+             ✨✨✨✨✨
+OWNER :- @ARMANMODXOWNER
